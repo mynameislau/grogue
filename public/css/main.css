@@ -1,0 +1,14 @@
+html {
+  background-color: navy;
+  color: white;
+}
+
+main {
+  position: absolute;
+  width: 70%;
+  padding: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  display: block;
+}
